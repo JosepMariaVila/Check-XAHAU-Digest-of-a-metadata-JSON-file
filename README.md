@@ -7,7 +7,9 @@ In this example the name is JSONexample.json
 Run the sha512half.js in the terminal: node sha512half.js 
 
 In this case, for the JSONexample.json file the terminal returns the following Digest:
+
 43d607e0f5d24cc86d6d54c38425ec12fe1bb01edc9200ede68f0f87d92dfe59
+
 (in some places the Digest appears with capital letters)
 
 
