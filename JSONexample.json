@@ -1,0 +1,41 @@
+{
+  "name": "Hayden Djinn 10",
+  "description": "Serial number: 10. Second Edition Ridworld NFT Card. Rare Legend (rl)",
+  "image": "ipfs://bafybeia6ngfbug6yrippcihbwda3tbxgu3ytgltmoc7nhwyphonkgwugqe",
+  "maxAmountMinted": "589",
+  "attributes": [
+    {
+      "trait_type": "Card Type",
+      "value": "Object"
+    },
+    {
+      "trait_type": "Object Type",
+      "value": "Static (S)"
+    },
+    {
+      "trait_type": "Uploading Cost",
+      "value": "0"
+    },
+    {
+      "trait_type": "Box Text",
+      "value": "Djinn 3/3"
+    }
+  ],
+  "game": "Ridworld Collectible NFT Card Game",
+  "collection": {
+    "name": "Xahau Second Edition"
+  },
+  "collectionUnits": "82 units",
+  "author": "Enigma",
+  "external_url": "https://www.ridworld.com",
+  "boxIllustrationLicense": "EnigmaRidworld, created using Midjourney on Discord",
+  "job_id": "22f0edb5-d370-4035-82fe-27a8a7022c9a",
+  "seed": "1592221717",
+  "cardTemplateCreatorCredit": "GenevensiS",
+  "issuer": "r4VzEm7Jbgg3QkPBgMscoppz6JuzK2Jkbd",
+  "imageCIDv1NFT.Storage": "bafybeia6ngfbug6yrippcihbwda3tbxgu3ytgltmoc7nhwyphonkgwugqe",
+  "folderCIDv1NFT.Storage": "bafybeic2ii5qcpvb7fhzgp34w47dskhi7fd5dkeeswywbjxaj2repwlz3m",
+  "imageCIDv0IPFSdesktop": "QmWTeTf9poKh5qgYG1dT4YSb6AwACaJX3Nyd1pPmXi1E3X",
+  "imageCIDv1IPFSdesktop": "bafybeidyvbdypbjlb4ez54pgz7iib5iqfjteb53ivqovfodxyl5yxaouwy",
+  "blockchain": "XAHAU"
+}
